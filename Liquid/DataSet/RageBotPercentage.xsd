@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RageBot_x0020_Shoots" msprop:Generator_TableClassName="RageBot_ShootsDataTable" msprop:Generator_TableVarName="tableRageBot_Shoots" msprop:Generator_TablePropName="RageBot_Shoots" msprop:Generator_RowDeletingName="RageBot_ShootsRowDeleting" msprop:Generator_RowChangingName="RageBot_ShootsRowChanging" msprop:Generator_RowEvHandlerName="RageBot_ShootsRowChangeEventHandler" msprop:Generator_RowDeletedName="RageBot_ShootsRowDeleted" msprop:Generator_UserTableName="RageBot Shoots" msprop:Generator_RowChangedName="RageBot_ShootsRowChanged" msprop:Generator_RowEvArgName="RageBot_ShootsRowChangeEvent" msprop:Generator_RowClassName="RageBot_ShootsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BodyPart" msdata:DataType="Liquid.Objects.Structs.HitboxGroup, AqHaxCSGO, Version=2.3.2.0, Culture=neutral, PublicKeyToken=null" msprop:Generator_ColumnVarNameInTable="columnBodyPart" msprop:Generator_ColumnPropNameInRow="BodyPart" msprop:Generator_ColumnPropNameInTable="BodyPartColumn" msprop:Generator_UserColumnName="BodyPart" type="xs:anyType" />
+              <xs:element name="Percent" msprop:Generator_ColumnVarNameInTable="columnPercent" msprop:Generator_ColumnPropNameInRow="Percent" msprop:Generator_ColumnPropNameInTable="PercentColumn" msprop:Generator_UserColumnName="Percent" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:RageBot_x0020_Shoots" />
+      <xs:field xpath="mstns:BodyPart" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

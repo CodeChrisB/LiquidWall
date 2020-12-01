@@ -1,0 +1,30 @@
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\bin\Debug\AqHaxCSGO.exe.config
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\bin\Debug\AqHaxCSGO.exe
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\bin\Debug\AqHaxCSGO.pdb
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.EntryForm.resources
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.MainForm.resources
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.Properties.Resources.resources
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.TCPForm.resources
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.csproj.GenerateResource.cache
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.csproj.CoreCompileInputs.cache
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.csproj.Fody.CopyLocal.cache
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.csproj.CopyComplete
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.exe
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.pdb
+C:\Users\GB B460M Aorus Pro\Downloads\AqHax-CSGO-master\AqHax-CSGO-master\WindowsClient\AqHaxCSGO\obj\Debug\AqHaxCSGO.csprojAssemblyReference.cache
+D:\Git\CsgoHack\AqHaxCSGO\bin\Debug\AqHaxCSGO.exe.config
+D:\Git\CsgoHack\AqHaxCSGO\bin\Debug\AqHaxCSGO.exe
+D:\Git\CsgoHack\AqHaxCSGO\bin\Debug\AqHaxCSGO.pdb
+D:\Git\CsgoHack\AqHaxCSGO\bin\Debug\Newtonsoft.Json.xml
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.csprojAssemblyReference.cache
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.EntryForm.resources
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.MainForm.resources
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.Properties.Resources.resources
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.TCPForm.resources
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.csproj.GenerateResource.cache
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.csproj.CoreCompileInputs.cache
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.csproj.Fody.CopyLocal.cache
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.csproj.CopyComplete
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.exe
+D:\Git\CsgoHack\AqHaxCSGO\obj\Debug\AqHaxCSGO.pdb
