@@ -20,25 +20,35 @@ namespace Liquid
     {
         public EntryForm() 
         {
+            if ((Process.GetProcessesByName("csgo").Length > 0))
+            {
+                this.Shown += new EventHandler(InstantConnect);
+                new MainForm().Show();
+                this.Visible = false;
+
+            }
             InitializeComponent();
         }
 
-
-        private void launcherButton_Click(object sender, EventArgs e) 
+        private void InstantConnect(object sender, EventArgs e)
         {
-            Process.Start("steam://rungameid/730");
+            this.Visible = false;
         }
+
 
         private void initButton_Click(object sender, EventArgs e) 
         {
             if ((Process.GetProcessesByName("csgo").Length > 0)) 
             {
-               
                 new MainForm().Show();    
                 this.Visible = false;
             }
         }
 
+        private void launcherButton_Click_1(object sender, EventArgs e)
+        {
+            Process.Start("steam://rungameid/730");
 
+        }
     }
 }

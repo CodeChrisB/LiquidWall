@@ -50,7 +50,7 @@ namespace Liquid.Hacks
                                 crossEntity.Team != CBasePlayer.Team ||
                                 Globals.FriendlyFire)
                             {
-                                Thread.Sleep(1);
+                                Thread.Sleep(5);
                                 ClientDLL.ForceAttack(true);
                                 Thread.Sleep(5);
                                 ClientDLL.ForceAttack(false);
@@ -160,7 +160,6 @@ namespace Liquid.Hacks
                             {
                                 continue;
                             }
-
                     }
                     else continue;
 
@@ -175,10 +174,6 @@ namespace Liquid.Hacks
                 if (closestEntityPos.x != 99999999 && (GetAsyncKeyState(Globals.TriggerKey) & 0x8000) > 0)
                 {
                     Angle AimAt = CalcAngle(CBasePlayer.VectorEyeLevel, closestEntityPos);
-
-
-                    if (Math.Abs(AimAt.x) > Globals.AimFlick) continue;
-
 
                     if (Globals.AimRecoil)
                     {

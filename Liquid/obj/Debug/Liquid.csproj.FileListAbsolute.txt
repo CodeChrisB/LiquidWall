@@ -64,3 +64,21 @@ C:\Users\GB B460M Aorus Pro\Downloads\Git\LiquidWalls\Liquid\bin\Debug\LiveChart
 C:\Users\GB B460M Aorus Pro\Downloads\Git\LiquidWalls\Liquid\bin\Debug\Newtonsoft.Json.xml
 C:\Users\GB B460M Aorus Pro\Downloads\Git\LiquidWalls\Liquid\obj\Debug\Liquid.csproj.Fody.CopyLocal.cache
 C:\Users\GB B460M Aorus Pro\Downloads\Git\LiquidWalls\Liquid\obj\Debug\Liquid.csproj.CopyComplete
+D:\Git\LiquidWall\Liquid\bin\Debug\AqHaxCSGO.exe.config
+D:\Git\LiquidWall\Liquid\bin\Debug\AqHaxCSGO.exe
+D:\Git\LiquidWall\Liquid\bin\Debug\AqHaxCSGO.pdb
+D:\Git\LiquidWall\Liquid\bin\Debug\LiveCharts.xml
+D:\Git\LiquidWall\Liquid\bin\Debug\Newtonsoft.Json.xml
+D:\Git\LiquidWall\Liquid\obj\Debug\Liquid.csprojAssemblyReference.cache
+D:\Git\LiquidWall\Liquid\obj\Debug\Liquid.EntryForm.resources
+D:\Git\LiquidWall\Liquid\obj\Debug\Liquid.MainForm.resources
+D:\Git\LiquidWall\Liquid\obj\Debug\AqHaxCSGO.Forms.SubForms.VisualForm.resources
+D:\Git\LiquidWall\Liquid\obj\Debug\AqHaxCSGO.Forms.SubForms.AimForm.resources
+D:\Git\LiquidWall\Liquid\obj\Debug\AqHaxCSGO.Properties.Resources.resources
+D:\Git\LiquidWall\Liquid\obj\Debug\Liquid.TCPForm.resources
+D:\Git\LiquidWall\Liquid\obj\Debug\Liquid.csproj.GenerateResource.cache
+D:\Git\LiquidWall\Liquid\obj\Debug\Liquid.csproj.CoreCompileInputs.cache
+D:\Git\LiquidWall\Liquid\obj\Debug\Liquid.csproj.Fody.CopyLocal.cache
+D:\Git\LiquidWall\Liquid\obj\Debug\Liquid.csproj.CopyComplete
+D:\Git\LiquidWall\Liquid\obj\Debug\AqHaxCSGO.exe
+D:\Git\LiquidWall\Liquid\obj\Debug\AqHaxCSGO.pdb

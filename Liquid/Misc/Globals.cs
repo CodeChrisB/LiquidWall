@@ -104,24 +104,24 @@ namespace Liquid.Objects
         public static CCSPlayer MyFriend = null;
         public static bool searchFriend = false;
         public static bool active = true;
-        public static bool WallHackEnabled = true;
+        public static bool WallHackEnabled = false;
         public static bool WallHackFullEnabled = false;
         public static bool WallHackGlowOnly = false;
         public static Color WallHackEnemy = Color.Red;
         public static Color WallHackTeammate = Color.Green;
-        public static float FullBloomAmount = 1.0f;
+        public static float FullBloomAmount = 10.0f;
 
         public static bool RenderEnabled = false;
         public static bool RenderEnemyOnly = false;
         public static Color RenderColor = Color.Red;
         public static int RenderBrightness = 1;
 
-        public static bool RadarEnabled = true;
+        public static bool RadarEnabled = false;
 
-        public static bool ESPEnabled = true;
-        public static bool ESPSkeletonEnabled = true;
+        public static bool ESPEnabled = false;
+        public static bool ESPSkeletonEnabled = false;
         public static bool ESPHealthEnabled = true;
-        public static bool ESPName = true;
+        public static bool ESPName = false;
         public static bool ESPDebugSkeleton = false;
 
         public static bool AimEnabled = false;
@@ -134,12 +134,12 @@ namespace Liquid.Objects
         public static HitboxGroup[] AimPosition = { HitboxGroup.ENTITY_HEAD, HitboxGroup.ENTITY_BODY };
         public static bool AimAssist = false;
 
-        public static bool TriggerEnabled = false;
+        public static bool TriggerEnabled = true;
         public static bool TriggerPressOnlyEnabled = false;
 
-        public static bool AntiFlashEnabled = true;
-        public static bool BunnyHopEnabled = true;
-        public static bool NightModeEnabled = true;
+        public static bool AntiFlashEnabled = false;
+        public static bool BunnyHopEnabled = false;
+        public static bool NightModeEnabled = false;
 
         public static bool SkinChangerEnabled = false;
         public static bool KnifeChangerEnabled = false;

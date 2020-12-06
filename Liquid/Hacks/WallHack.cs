@@ -96,7 +96,7 @@ namespace Liquid.Hacks
                     CCSPlayer entity = new CCSPlayer(baseEntity);
                     if (entity == null) continue;
                     if (entity.Dormant) continue;
-                    if (entity.Health <= 0) continue;
+                    //if (entity.Health <= 0) continue;
 
                     if (entity.Team != CBasePlayer.Team)
                     {
@@ -121,7 +121,7 @@ namespace Liquid.Hacks
                     EngineDLL.ModelAmbientIntensity = Globals.RenderBrightness;
                 }
 
-                Thread.Sleep(Globals.UsageDelay);
+                Thread.Sleep(2);
             }
         }
 

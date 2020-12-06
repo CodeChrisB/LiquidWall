@@ -65,6 +65,7 @@
             this.launcherButton.TabIndex = 13;
             this.launcherButton.Text = "Launch The Game";
             this.launcherButton.UseVisualStyleBackColor = false;
+            this.launcherButton.Click += new System.EventHandler(this.launcherButton_Click_1);
             // 
             // EntryForm
             // 
@@ -74,7 +75,7 @@
             this.Controls.Add(this.launcherButton);
             this.Controls.Add(this.initButton);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.MaximizeBox = false;
             this.Name = "EntryForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
